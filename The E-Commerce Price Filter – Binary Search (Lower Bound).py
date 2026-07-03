@@ -13,6 +13,6 @@ while low <= high:
     else:
         low = mid + 1
 if answer != -1:
-    print("First laptop price >=", find_price, "is", price[answer])
+    print("Laptop price >=", find_price, "is", price[answer])
 else:
-    print("No laptop found.")
+    print("Laptop not found")
