@@ -8,9 +8,7 @@ dict = {
     "D": "Dog",
     "E": "Ephemeral",
     "F": "Fish",
-    "G": "Goat",
-    "M": "Monkey",
-    "Z": "Zoo"
+    "G": "Goat"
 }
 
 key = input("Enter the letter to search: ")
