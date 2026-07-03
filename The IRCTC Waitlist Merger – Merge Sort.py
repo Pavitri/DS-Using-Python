@@ -24,5 +24,4 @@ while j < len(l2):
     result.append(l2[j])
     j += 1
 
-print("Merged List:")
-print(result)
+print("Merged List:",result)
